@@ -1,0 +1,21 @@
+{
+  "app_version": "1.0.0",
+  "scan_timeout_seconds": 15,
+  "signal_anomaly_threshold_dbm": 15,
+  "risk_thresholds": {
+    "phishing": 50,
+    "suspicious": 25
+  },
+  "scoring": {
+    "duplicate_ssid": 40,
+    "security_mismatch": 30,
+    "untrusted_bssid": 25,
+    "unknown_vendor": 20,
+    "wep_network": 20,
+    "open_network": 15,
+    "channel_mismatch": 10,
+    "signal_anomaly": 10
+  },
+  "auto_load_profiles_on_startup": false,
+  "dark_mode": true
+}

@@ -1,0 +1,123 @@
+# OUI Database - WiFi Phishing Detector
+# Format: XX:XX:XX VendorName
+# Source: IEEE OUI registry (subset of most common AP vendors)
+# To use the full database, download from: https://www.wireshark.org/download/automated/data/manuf
+
+00:00:0C Cisco Systems
+00:0F:66 Cisco-Linksys
+00:17:F2 Apple
+00:1A:2B Cisco Systems
+00:1C:BF Netgear
+00:1D:7E Cisco-Linksys
+00:1E:E5 Cisco Systems
+00:21:29 Cisco Systems
+00:22:55 Belkin International
+00:23:69 Cisco-Linksys
+00:24:01 Netgear
+00:26:B9 Dell
+00:50:F2 Microsoft Corp
+00:90:4C Epigram
+00:A0:C9 Intel Corporation
+00:E0:4C Realtek Semiconductor
+04:18:D6 Cisco Systems
+04:4F:AA ZyXEL Communications
+08:00:27 PCS Systemtechnik / VirtualBox
+10:02:B5 Ubiquiti Networks
+18:64:72 Cisco Systems
+1C:7E:E5 Cisco Systems
+20:AA:4B Cisco Systems
+24:A4:3C Ubiquiti Networks
+28:94:0F Ubiquiti Networks
+2C:30:33 Belkin International
+30:46:9A Belkin International
+38:22:D6 Cisco Systems
+3C:5A:B4 Google
+44:E4:D9 Ubiquiti Networks
+48:5D:36 Cisco Systems
+50:C7:BF TP-LINK Technologies
+5C:AA:FD Apple
+60:A4:4C Cisco Systems
+64:66:B3 Cisco Systems
+68:72:51 Cisco Systems
+6C:70:9F Cisco Systems
+74:EA:3A ASUSTek Computer
+78:24:AF Cisco Systems
+7C:2E:BD Cisco Systems
+80:2A:A8 Ubiquiti Networks
+84:1B:5E Cisco Systems
+88:1D:FC Cisco Systems
+8C:3B:AD Cisco Systems
+90:35:CB Apple
+90:48:9A Cisco Systems
+94:D9:B3 Cisco Systems
+98:AC:AC Cisco Systems
+A0:1D:48 Netgear
+A4:C3:F0 Apple
+AC:84:C6 Cisco Systems
+B0:7F:B9 Cisco Systems
+B4:A9:FC Apple
+B8:27:EB Raspberry Pi Foundation
+BC:EE:7B Apple
+C0:25:E9 Cisco Systems
+C4:64:13 Cisco Systems
+C8:4C:75 Cisco Systems
+CC:D4:A1 Cisco Systems
+D0:57:7B TP-LINK Technologies
+D4:CA:6D Cisco Systems
+D8:67:D9 TP-LINK Technologies
+DC:A4:CA Apple
+E0:CB:1D Cisco Systems
+E4:8D:8C Cisco Systems
+E8:65:49 Cisco Systems
+EC:8C:A2 Cisco Systems
+F0:25:72 Cisco Systems
+F4:5C:89 Apple
+F8:1E:DF Apple
+FC:EC:DA Cisco Systems
+FC:F8:AE Apple
+00:03:7F Atheros Communications
+00:13:10 Belkin International
+00:14:BF Linksys Group
+00:18:F8 D-Link Corporation
+00:19:5B D-Link Corporation
+00:1C:10 Huawei Technologies
+00:1E:58 D-Link Corporation
+00:21:91 D-Link Corporation
+00:22:B0 D-Link Corporation
+00:24:A5 D-Link Corporation
+00:26:5A D-Link Corporation
+1C:BD:B9 Huawei Technologies
+2C:AB:25 Huawei Technologies
+34:6B:D3 Huawei Technologies
+40:4D:8E Huawei Technologies
+48:DB:50 Huawei Technologies
+4C:1F:CC Huawei Technologies
+54:89:98 Huawei Technologies
+6C:8D:C1 Huawei Technologies
+70:72:CF Huawei Technologies
+78:1D:BA Huawei Technologies
+80:71:7A Huawei Technologies
+8C:25:05 Huawei Technologies
+90:17:AC Huawei Technologies
+9C:28:EF Huawei Technologies
+A8:57:4E Huawei Technologies
+B4:15:13 Huawei Technologies
+C8:14:79 Huawei Technologies
+CC:53:B5 Huawei Technologies
+D0:7A:B5 Huawei Technologies
+E0:19:54 Huawei Technologies
+E4:68:A3 Huawei Technologies
+00:09:5B Netgear
+00:0F:B5 Netgear
+00:14:6C Netgear
+00:18:4D Netgear
+00:1B:2F Netgear
+00:1E:2A Netgear
+00:22:3F Netgear
+00:26:F2 Netgear
+2C:B0:5D Netgear
+44:94:FC Netgear
+6C:B0:CE Netgear
+84:1B:5E Netgear
+C0:3F:0E Netgear
+C4:04:15 Netgear

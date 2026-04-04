@@ -1,0 +1,131 @@
+{
+  "HomeWiFi": {
+    "security": "WPA2-Personal",
+    "trusted_bssids": [
+      "A4:C3:F0:11:22:33"
+    ],
+    "channels": [
+      6
+    ]
+  },
+  "OfficeNet": {
+    "security": "WPA2-Enterprise",
+    "trusted_bssids": [
+      "00:1A:2B:3C:4D:5E"
+    ],
+    "channels": [
+      1,
+      6
+    ]
+  },
+  "CampusWiFi": {
+    "security": "WPA2-Personal",
+    "trusted_bssids": [
+      "00:11:22:33:44:55"
+    ],
+    "channels": [
+      36,
+      40
+    ]
+  },
+  "SRMIST": {
+    "security": "WPA2-Enterprise",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "JioPrivateNet": {
+    "security": "WPA3",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "POCO 2": {
+    "security": "Unknown",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "Abhijith's S21 FE": {
+    "security": "Unknown",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "OnePlus Nord CE4": {
+    "security": "Unknown",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "POCO": {
+    "security": "WPA3",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "Jewel's S23": {
+    "security": "Unknown",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  ".....": {
+    "security": "WPA2-Personal",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "Samsung -A73": {
+    "security": "Unknown",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "Shahid's S23": {
+    "security": "Unknown",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "Maggie_5G": {
+    "security": "WPA2-Personal",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "OnePlus 9RT 5G": {
+    "security": "Unknown",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "POCO X4 Pro 5G": {
+    "security": "Unknown",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "Galaxy F41B5A1": {
+    "security": "Unknown",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "JioNet@SRM_Institute": {
+    "security": "Open",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "Jesvin's Galaxy A73 5G": {
+    "security": "Unknown",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "Harshit’s iphone": {
+    "security": "Unknown",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "ROYEL GUEST": {
+    "security": "Unknown",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "JioFiber-JHt2H_5G": {
+    "security": "WPA2-Personal",
+    "trusted_bssids": [],
+    "channels": []
+  },
+  "OnePlus Nord CE 3 Lite 5G": {
+    "security": "Unknown",
+    "trusted_bssids": [],
+    "channels": []
+  }
+}
